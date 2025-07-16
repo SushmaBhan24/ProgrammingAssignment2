@@ -13,3 +13,6 @@ makeCacheMatrix <- function(x = matrix()) {
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
+git add cachematrix.R
+git commit -m "Completed Programming Assignment 2"
+git push
